@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistralMovieRating.API", "MistralMovieRating.API\MistralMovieRating.API.csproj", "{424455EC-5194-4598-9BC9-6289CCE5773E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistralMovieRating.Common", "MistralMovieRating.Common\MistralMovieRating.Common.csproj", "{0E625841-0142-4BCC-AA0D-1BB841D3C32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistralMovieRating.Repository", "MistralMovieRating.Repository\MistralMovieRating.Repository.csproj", "{7DC1D69E-DF2B-4382-8A7C-9CDE7F1906D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistralMovieRating.Service", "MistralMovieRating.Service\MistralMovieRating.Service.csproj", "{67F97B62-6D94-4B18-A362-3021F23DACE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Api", "Identity.Api\Identity.Api.csproj", "{4B4D0E99-9305-43E9-BB31-0164EA128293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424455EC-5194-4598-9BC9-6289CCE5773E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424455EC-5194-4598-9BC9-6289CCE5773E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424455EC-5194-4598-9BC9-6289CCE5773E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424455EC-5194-4598-9BC9-6289CCE5773E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E625841-0142-4BCC-AA0D-1BB841D3C32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E625841-0142-4BCC-AA0D-1BB841D3C32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E625841-0142-4BCC-AA0D-1BB841D3C32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E625841-0142-4BCC-AA0D-1BB841D3C32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC1D69E-DF2B-4382-8A7C-9CDE7F1906D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC1D69E-DF2B-4382-8A7C-9CDE7F1906D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC1D69E-DF2B-4382-8A7C-9CDE7F1906D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC1D69E-DF2B-4382-8A7C-9CDE7F1906D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F97B62-6D94-4B18-A362-3021F23DACE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F97B62-6D94-4B18-A362-3021F23DACE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F97B62-6D94-4B18-A362-3021F23DACE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F97B62-6D94-4B18-A362-3021F23DACE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4D0E99-9305-43E9-BB31-0164EA128293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4D0E99-9305-43E9-BB31-0164EA128293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4D0E99-9305-43E9-BB31-0164EA128293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4D0E99-9305-43E9-BB31-0164EA128293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C58E324F-1BE6-4F63-ADAF-A987A2992901}
+	EndGlobalSection
+EndGlobal
